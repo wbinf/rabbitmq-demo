@@ -20,7 +20,7 @@ http://ip:15672/
 ```
 - 安装`rabbitmq_delayed_message_exchange`插件
 
-[下载地址](http://www.rabbitmq.com/community-plugins.html)
+[下载地址](http://www.rabbitmq.com/community-plugins.html)  
 ![image](https://s1.ax1x.com/2020/06/15/Np5z1x.png)
 
 下载好之后，解压得到 **.ez 结尾**的插件包，将其复制到`RabbitMQ`安装目录下的 `plugins` 文件夹。
